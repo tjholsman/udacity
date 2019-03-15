@@ -1,5 +1,4 @@
-# udacity
-Coursework for the Udacity Data Analyst Nanodegree
+## Coursework for the Udacity Data Analyst Nanodegree
 
 ### Project 1
 A guided analysis of Bay Area Bike Share data using Python, designed to help the student become familiar with popular Python libraries-- NumPy, Pandas, Matplotlib-- as well as learn to ask questions and seek answers in data analysis
